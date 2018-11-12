@@ -1,6 +1,10 @@
+# Unity导出的Xcode工程垃圾代码生成器
 修改自KLGenerateSpamCode
-https://github.com/klaus01/KLGenerateSpamCode
-使其对应Unity导出的Xcode工程
+https://github.com/klaus01/KLGenerateSpamCode <br>
+使其对应Unity导出的Xcode工程<br>
+懒得重新fork了，在此感谢原作者<br>
+
+一下为原说明<br>
 
 # KLGenerateSpamCode 垃圾代码生成器
 本工具用于应对苹果对重复应用的审核（Guideline 4.3 Design Spam），避免苹果机审检测概率。
